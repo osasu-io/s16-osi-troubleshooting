@@ -1,0 +1,15 @@
+Operator: Osasumwen Imariagbe
+Date: 4/21/2026
+
+Confidence Audit (Yes/No):
+1. Nmap (Network Scanning): [No ]
+2. Docker (Containerization): [Yes ]
+3. Linux Hardening (UFW/chmod): [No ]
+4. VS Code Remote-SSH: [yes ]
+
+Identify your weakest area and your plan to review it:
+My weakest area is Linux Hardening (UFW/chmod). I understand the basic
+concepts but need more repetition with permission strings and firewall
+rules to feel confident. My plan is to practice chmod on files and review
+ufw rule management until the syntax feels natural without needing to look
+it up.
